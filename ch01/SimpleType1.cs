@@ -10,6 +10,7 @@ namespace PrimtiveTypes
             sbyte sbyte1 = 127;
             byte byte2 = 250;
             int int3 = 3500000;
+            //Int32 int3 = 3500000; // CTS 형식
             long longInt4 = 2700000000;
             int 나이 = 30;
 

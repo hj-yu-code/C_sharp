@@ -13,6 +13,7 @@
     <Compile Remove="Enumeration.cs" />
     <Compile Remove="Greeting1.cs" />
     <Compile Remove="Greeting2.cs" />
+    <Compile Remove="Nullable.cs" />
     <Compile Remove="Program.cs" />
     <Compile Remove="Program2.cs" />
     <Compile Remove="SimpleType1.cs" />
@@ -26,6 +27,7 @@
     <None Include="Enumeration.cs" />
     <None Include="Greeting1.cs" />
     <None Include="Greeting2.cs" />
+    <None Include="Nullable.cs" />
     <None Include="Program.cs" />
     <None Include="Program2.cs" />
     <None Include="SimpleType1.cs" />
