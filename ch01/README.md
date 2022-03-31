@@ -32,3 +32,6 @@ Enumeration
 Nullable
 - nullable 변수
 - var 변수
+
+Test1
+- 총 사용 복습
