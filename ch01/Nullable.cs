@@ -24,11 +24,23 @@ namespace ch01
 
 
             // Var type 변수
+            // 컴파일러가 자동으로 해당 변수의 형식을 지정
+            // 메모리가 너무 많이 소모(오버헤드 발생)
             int num = 100;
             Console.WriteLine("{0}, {1}", num, num.GetType()); // 100, System.Int32
 
-            var intTmp = 200;
-            Console.WriteLine("{0}, {1}", intTmp, intTmp.GetType()); // 100, System.Int32
+            // var type 변수는 값이 저장될 때 자료형이 결정
+            var Tmp = 200; // 초기화 필수
+            Console.WriteLine("{0}, {1}", Tmp, Tmp.GetType()); // 100, System.Int32
+
+            var Tmp2 = 3.4;
+            Console.WriteLine("{0}, {1}", Tmp2, Tmp2.GetType());
+
+            var Tmp3 = "campus";
+            Console.WriteLine("{0}, {1}", Tmp3, Tmp3.GetType()); // campus, System.String
+
+            var Tmp4 = new int[] { 10, 20, 40 };
+            Console.WriteLine("{0}, {1}", Tmp4, Tmp4.GetType()); // System.Int32[], System.Int32[]
 
         }
     }
