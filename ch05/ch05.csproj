@@ -5,4 +5,28 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="ns_Loop.cs" />
+    <Compile Remove="Operator1.cs" />
+    <Compile Remove="Operator2.cs" />
+    <Compile Remove="Program_For.cs" />
+    <Compile Remove="Program_if1.cs" />
+    <Compile Remove="Program_if2.cs" />
+    <Compile Remove="Program_jump.cs" />
+    <Compile Remove="Program_Switch.cs" />
+    <Compile Remove="Program_While.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="ns_Loop.cs" />
+    <None Include="Operator1.cs" />
+    <None Include="Operator2.cs" />
+    <None Include="Program_For.cs" />
+    <None Include="Program_if1.cs" />
+    <None Include="Program_if2.cs" />
+    <None Include="Program_jump.cs" />
+    <None Include="Program_Switch.cs" />
+    <None Include="Program_While.cs" />
+  </ItemGroup>
+
 </Project>
