@@ -18,6 +18,8 @@ namespace ch01
             Console.WriteLine(b);
             // Boxing : stack에 있는 내용을 heap에 넣음
 
+            Console.WriteLine("b.GetHashCode() : {0} ", b.GetHashCode()); // b가 저장하고 있는 주소
+
             int c = (int)b; // UnBoxing
             Console.WriteLine(b);
             Console.WriteLine(c);

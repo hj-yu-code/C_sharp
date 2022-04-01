@@ -1,0 +1,16 @@
+D:\hj_c\C_sharp\ch06\bin\Debug\net5.0\ch06.exe
+D:\hj_c\C_sharp\ch06\bin\Debug\net5.0\ch06.deps.json
+D:\hj_c\C_sharp\ch06\bin\Debug\net5.0\ch06.runtimeconfig.json
+D:\hj_c\C_sharp\ch06\bin\Debug\net5.0\ch06.runtimeconfig.dev.json
+D:\hj_c\C_sharp\ch06\bin\Debug\net5.0\ch06.dll
+D:\hj_c\C_sharp\ch06\bin\Debug\net5.0\ref\ch06.dll
+D:\hj_c\C_sharp\ch06\bin\Debug\net5.0\ch06.pdb
+D:\hj_c\C_sharp\ch06\obj\Debug\net5.0\ch06.csproj.AssemblyReference.cache
+D:\hj_c\C_sharp\ch06\obj\Debug\net5.0\ch06.GeneratedMSBuildEditorConfig.editorconfig
+D:\hj_c\C_sharp\ch06\obj\Debug\net5.0\ch06.AssemblyInfoInputs.cache
+D:\hj_c\C_sharp\ch06\obj\Debug\net5.0\ch06.AssemblyInfo.cs
+D:\hj_c\C_sharp\ch06\obj\Debug\net5.0\ch06.csproj.CoreCompileInputs.cache
+D:\hj_c\C_sharp\ch06\obj\Debug\net5.0\ch06.dll
+D:\hj_c\C_sharp\ch06\obj\Debug\net5.0\ref\ch06.dll
+D:\hj_c\C_sharp\ch06\obj\Debug\net5.0\ch06.pdb
+D:\hj_c\C_sharp\ch06\obj\Debug\net5.0\ch06.genruntimeconfig.cache
