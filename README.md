@@ -2,6 +2,13 @@
 
 - 참고 문서 : 이것이 C#이다
 
+# 공부 진행 방식
+
+- ch01 : chapter 1 ~ chapter 4 (기초)
+- ch05 : chapter 5 (제어문)
+- ch06 : chapter 6 (메소드)
+- ch10 : chapter 10 (배열)
+
 <br>
 
 # [chapter 1 프로그래밍을 시작합시다](ch01)
@@ -197,7 +204,7 @@ _9.9 추상 클래스와 프로퍼티
 
 <br>
 
-# chapter 10 배열과 컬렉션 그리고 인덱서
+# [chapter 10 배열과 컬렉션 그리고 인덱서](ch10)
 
 _10.1 All for one, one for all
 

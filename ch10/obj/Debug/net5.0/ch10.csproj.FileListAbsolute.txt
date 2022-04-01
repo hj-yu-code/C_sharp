@@ -1,0 +1,16 @@
+D:\hj_c\C_sharp\ch10\bin\Debug\net5.0\ch10.exe
+D:\hj_c\C_sharp\ch10\bin\Debug\net5.0\ch10.deps.json
+D:\hj_c\C_sharp\ch10\bin\Debug\net5.0\ch10.runtimeconfig.json
+D:\hj_c\C_sharp\ch10\bin\Debug\net5.0\ch10.runtimeconfig.dev.json
+D:\hj_c\C_sharp\ch10\bin\Debug\net5.0\ch10.dll
+D:\hj_c\C_sharp\ch10\bin\Debug\net5.0\ref\ch10.dll
+D:\hj_c\C_sharp\ch10\bin\Debug\net5.0\ch10.pdb
+D:\hj_c\C_sharp\ch10\obj\Debug\net5.0\ch10.GeneratedMSBuildEditorConfig.editorconfig
+D:\hj_c\C_sharp\ch10\obj\Debug\net5.0\ch10.AssemblyInfoInputs.cache
+D:\hj_c\C_sharp\ch10\obj\Debug\net5.0\ch10.AssemblyInfo.cs
+D:\hj_c\C_sharp\ch10\obj\Debug\net5.0\ch10.csproj.CoreCompileInputs.cache
+D:\hj_c\C_sharp\ch10\obj\Debug\net5.0\ch10.dll
+D:\hj_c\C_sharp\ch10\obj\Debug\net5.0\ref\ch10.dll
+D:\hj_c\C_sharp\ch10\obj\Debug\net5.0\ch10.pdb
+D:\hj_c\C_sharp\ch10\obj\Debug\net5.0\ch10.genruntimeconfig.cache
+D:\hj_c\C_sharp\ch10\obj\Debug\net5.0\ch10.csproj.AssemblyReference.cache

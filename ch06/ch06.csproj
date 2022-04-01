@@ -5,4 +5,24 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="MemoryAllocation.cs" />
+    <Compile Remove="MemoryParameter.cs" />
+    <Compile Remove="MethodOverloading.cs" />
+    <Compile Remove="OptionalParameter.cs" />
+    <Compile Remove="ParamParameter.cs" />
+    <Compile Remove="PassingParameter.cs" />
+    <Compile Remove="Test2.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="MemoryAllocation.cs" />
+    <None Include="MemoryParameter.cs" />
+    <None Include="MethodOverloading.cs" />
+    <None Include="OptionalParameter.cs" />
+    <None Include="ParamParameter.cs" />
+    <None Include="PassingParameter.cs" />
+    <None Include="Test2.cs" />
+  </ItemGroup>
+
 </Project>

@@ -9,9 +9,9 @@ namespace ch06
 
         static void funcA()
         {
-            int age = 30;
+            int age = 30; // 지역변수 수정
             Console.WriteLine("func() salary : {0}, age : {1}", salary, age);
-            salary += 1000000;
+            salary += 1000000; // 전역변수 수정
 
         }
         static void Main(string[] args)
