@@ -20,7 +20,7 @@ namespace ch10
             Console.WriteLine("문자열 길이 : {0}", len);
 
             string s4 = string.Copy(s1);
-            Console.WriteLine(s4);
+            Console.WriteLine(s4); 
 
             string s5 = s4; // deep copy : string 자료형 특징
             Console.WriteLine(s4); // World

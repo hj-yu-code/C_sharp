@@ -15,6 +15,7 @@
     <Compile Remove="PassingArray.cs" />
     <Compile Remove="Program.cs" />
     <Compile Remove="ReturnArray.cs" />
+    <Compile Remove="String_Method.cs" />
     <Compile Remove="Test3.cs" />
     <Compile Remove="TwoArray.cs" />
   </ItemGroup>
@@ -29,6 +30,7 @@
     <None Include="PassingArray.cs" />
     <None Include="Program.cs" />
     <None Include="ReturnArray.cs" />
+    <None Include="String_Method.cs" />
     <None Include="Test3.cs" />
     <None Include="TwoArray.cs" />
   </ItemGroup>

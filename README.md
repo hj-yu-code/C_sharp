@@ -8,6 +8,7 @@
 - ch05 : chapter 5 (제어문)
 - ch06 : chapter 6 (메소드)
 - ch10 : chapter 10 (배열)
+- ch07 : chapter 7 (클래스)
 
 <br>
 
@@ -123,7 +124,7 @@ _6.11 로컬 함수
 
 <br>
 
-# chapter 7 클래스
+# [chapter 7 클래스](ch07)
 
 _7.1 객체지향 프로그래밍과 클래스
 
