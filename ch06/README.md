@@ -1,5 +1,5 @@
 # ch06 method
-
+4/1
 MemoryAllocation
 
 MemoryParameter

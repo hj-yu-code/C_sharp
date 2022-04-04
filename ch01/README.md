@@ -1,12 +1,12 @@
 # ch01 basic
-
+3/31
 Program
 
 Program2
 Greeting1
 Greeting2
 
-namespace : 성격이나 하는 일이 비슷한 클래스 , 구조체 , 인터페이스 등을 하나의 이름으로 묶어서 관리하는 개념
+namespace : 성격이나 하는 일이 비슷한 클래스, 구조체, 인터페이스 등을 하나의 이름으로 묶어서 관리하는 개념
 
 class : C# 프로그램을 구성하는 기본 단위로 "데이터 + 메소드"로 이루어지며, 여러 개의 클래스를 가질 수 있음
 
@@ -20,7 +20,7 @@ SimpleType2
 - 명시적 형변환 필요
 
 ConsoleInput
-- 
+
 ConsoleOutput
 
 BoxingUnBoxing

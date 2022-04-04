@@ -1,5 +1,5 @@
 # ch10 array
-
+4/1
 Program
 
 Array_√ ±‚»≠
