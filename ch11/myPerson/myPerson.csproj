@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="PersonMain.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="PersonMain.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="myPersonDll">
+      <HintPath>..\myPersonDll\bin\Debug\netstandard2.1\myPersonDll.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

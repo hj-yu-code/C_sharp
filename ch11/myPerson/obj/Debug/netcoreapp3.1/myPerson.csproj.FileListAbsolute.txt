@@ -1,0 +1,17 @@
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\myPerson\bin\Debug\netcoreapp3.1\myPerson.exe
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\myPerson\bin\Debug\netcoreapp3.1\myPerson.deps.json
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\myPerson\bin\Debug\netcoreapp3.1\myPerson.runtimeconfig.json
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\myPerson\bin\Debug\netcoreapp3.1\myPerson.runtimeconfig.dev.json
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\myPerson\bin\Debug\netcoreapp3.1\myPerson.dll
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\myPerson\bin\Debug\netcoreapp3.1\myPerson.pdb
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\myPerson\bin\Debug\netcoreapp3.1\myPersonDll.dll
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\myPerson\bin\Debug\netcoreapp3.1\myPersonDll.pdb
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\myPerson\obj\Debug\netcoreapp3.1\myPerson.csproj.AssemblyReference.cache
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\myPerson\obj\Debug\netcoreapp3.1\myPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\myPerson\obj\Debug\netcoreapp3.1\myPerson.AssemblyInfoInputs.cache
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\myPerson\obj\Debug\netcoreapp3.1\myPerson.AssemblyInfo.cs
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\myPerson\obj\Debug\netcoreapp3.1\myPerson.csproj.CoreCompileInputs.cache
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\myPerson\obj\Debug\netcoreapp3.1\myPerson.csproj.CopyComplete
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\myPerson\obj\Debug\netcoreapp3.1\myPerson.dll
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\myPerson\obj\Debug\netcoreapp3.1\myPerson.pdb
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\myPerson\obj\Debug\netcoreapp3.1\myPerson.genruntimeconfig.cache

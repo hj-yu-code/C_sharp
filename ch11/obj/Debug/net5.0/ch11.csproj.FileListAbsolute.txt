@@ -1,0 +1,16 @@
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\ch11\bin\Debug\net5.0\ch11.exe
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\ch11\bin\Debug\net5.0\ch11.deps.json
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\ch11\bin\Debug\net5.0\ch11.runtimeconfig.json
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\ch11\bin\Debug\net5.0\ch11.runtimeconfig.dev.json
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\ch11\bin\Debug\net5.0\ch11.dll
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\ch11\bin\Debug\net5.0\ref\ch11.dll
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\ch11\bin\Debug\net5.0\ch11.pdb
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\ch11\obj\Debug\net5.0\ch11.csproj.AssemblyReference.cache
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\ch11\obj\Debug\net5.0\ch11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\ch11\obj\Debug\net5.0\ch11.AssemblyInfoInputs.cache
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\ch11\obj\Debug\net5.0\ch11.AssemblyInfo.cs
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\ch11\obj\Debug\net5.0\ch11.csproj.CoreCompileInputs.cache
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\ch11\obj\Debug\net5.0\ch11.dll
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\ch11\obj\Debug\net5.0\ref\ch11.dll
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\ch11\obj\Debug\net5.0\ch11.pdb
+C:\Users\Hyejeong\Documents\GitHub\healthcare\C-sharp\ch11\obj\Debug\net5.0\ch11.genruntimeconfig.cache

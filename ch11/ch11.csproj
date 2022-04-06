@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ArrayList.cs" />
+    <Compile Remove="Generic_Class_Indexer.cs" />
+    <Compile Remove="Generic_List.cs" />
+    <Compile Remove="Generic_Method.cs" />
+    <Compile Remove="Generic_Queue.cs" />
+    <Compile Remove="Generic_Stack.cs" />
+    <Compile Remove="HashTable.cs" />
+    <Compile Remove="Program.cs" />
+    <Compile Remove="형식매개변수_제약.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="ArrayList.cs" />
+    <None Include="Generic_Class_Indexer.cs" />
+    <None Include="Generic_List.cs" />
+    <None Include="Generic_Method.cs" />
+    <None Include="Generic_Queue.cs" />
+    <None Include="Generic_Stack.cs" />
+    <None Include="HashTable.cs" />
+    <None Include="Program.cs" />
+    <None Include="형식매개변수_제약.cs" />
+  </ItemGroup>
+
+</Project>

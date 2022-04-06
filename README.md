@@ -9,6 +9,8 @@
 - ch06 : chapter 6 (메소드)
 - ch10 : chapter 10 (배열)
 - ch07 : chapter 7 (클래스)
+- ch08 : chapter 8
+- ch11 : chapter 11
 
 <br>
 
@@ -165,7 +167,7 @@ _7.18 튜플
 
 <br>
 
-# chapter 8 인터페이스와 추상 클래스
+# [chapter 8 인터페이스와 추상 클래스](ch08)
 
 _8.1 인터페이스의 선언
 
@@ -232,7 +234,7 @@ _10.11 foreach가 가능한 객체 만들기
 
 <br>
 
-# chapter 11 일반화 프로그래밍
+# [chapter 11 일반화 프로그래밍](ch11)
 
 _11.1 일반화 프로그래밍이란?
 
